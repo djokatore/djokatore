@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Đorđe Ivković</h1>
 <h3 align="center">A Software Development Engineer in Test</h3>
 
-- 🔭 I’m currently working on [bestbytes](https://bestbytes.com/projects)
+- 🔭 I’m currently working at [bestbytes](https://bestbytes.com/projects)
 
 - 💬 Ask me about **anything software-testing-related**
 
